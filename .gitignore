@@ -3,7 +3,8 @@
 # ==============================================================================
 
 # --- Datasets (Raw MRI Volumes) ---
-Dataset/
+Dataset/*
+!Dataset/.gitkeep
 *.nii
 *.nii.gz
 
